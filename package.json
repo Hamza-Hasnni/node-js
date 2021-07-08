@@ -1,0 +1,14 @@
+{
+  "name": "nodecheckpoint",
+  "version": "1.0.0",
+  "description": "node checkpoint",
+  "main": "http-collect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hamza hasni",
+  "license": "ISC",
+  "dependencies": {
+    "bl": "^5.0.0"
+  }
+}
